@@ -1,0 +1,26 @@
+
+
+** Differences between Swedish NYK83 and NYK85/90. 
+
+** Information provided to CAMSIS project by Erik Bihagen. 
+
+
+********************************************************.
+
+
+The differences between Fob/NYK 85/90 and nyk 83 is as follows (there are 13 differences);
+
+
+1. 010 Kemister, laboratorieingenjörer (kem lab) 016
+2. 011 Fysiker, laboratorieingenjörer (fysikal lab) 016
+3. 539 Övriga med petroleumutvinningsarbete 531
+4. 99 Övrigt servicearbete 97
+5. 991 Begravningsbyråpersonal 971
+6. 999 Övriga med servicearbete 979
+7. X Arbetskraft och arbete ej hänförbart till annat yrkesområde 98-99
+8. X1 Militärt arbete 98
+9. X11 Yrkesofficerare 981
+10. X19 Övriga med militärt arbete 989
+11. X2 Personer med ej identifierbara yrken och utan yrkestillhörighet 99
+12. X21 Personer med ej identifierbara yrken 999
+13. X22 Personer utan yrkestillhörighet 999
